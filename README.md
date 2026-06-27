@@ -63,6 +63,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
 4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
 
+5. **[NoteRich](https://noterich.com)** - AI-powered notes with built-in RAG search. Import docs, ask natural language questions, find anything in seconds. 41 languages.
 ## Collaboration
 
 1. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
